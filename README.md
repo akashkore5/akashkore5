@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @akashkore5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Github
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Akash Kore
+- 👀 I’m interested in business & entrepreneurship
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate on web development and app development projects.
 - 📫 How to reach me email me akashkore5@gmail.com
 
 <!---
