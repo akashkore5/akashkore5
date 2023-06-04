@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Akash Kore
-- 👀 I’m interested in business & entrepreneurship
-- 🌱 I’m currently learning coding
+- 🎓 NIT Nagpur Computer Science
+- 👀 I’m interested in Full Stack / Java Development
+- 🌱 I’m currently working as software engineer
 - 💞️ I’m looking to collaborate on web development and app development projects.
 - 📫 How to reach me email me akashkore5@gmail.com
 
